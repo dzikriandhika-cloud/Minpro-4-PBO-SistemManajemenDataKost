@@ -1,0 +1,4 @@
+com\mycompany\minpro\pbo\sistemmanajemendatakost\dao\PenghuniDAO.class
+com\mycompany\minpro\pbo\sistemmanajemendatakost\config\DatabaseConnection.class
+com\mycompany\minpro\pbo\sistemmanajemendatakost\TestDatabase.class
+com\mycompany\minpro\pbo\sistemmanajemendatakost\Minpro4PBOSistemManajemenDataKost.class
